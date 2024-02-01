@@ -1,3 +1,3 @@
 # Nodejs-30-Days-Challenge
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/sBavisetti/Nodejs-30-Days-Challenge)
+This repository will be updated daily with problems and solutions as part of Nodejs 30 days challenge
